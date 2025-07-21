@@ -1,6 +1,7 @@
 sagemaker>=2.200.0
 boto3
 ipykernel
+gunicorn
 notebook
 Pillow
 matplotlib
